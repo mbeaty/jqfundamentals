@@ -1,3 +1,10 @@
-Github hosting of jQuery Fundamentals exercises (http://jqfundamentals.com/book/index.html)
+Rebecca Murphey has a great free book, called jQuery Fundamentals, which is hosted online at
 
-http://mbeaty.github.com/jqFundamentals
+http://jqfundamentals.com/book/index.html
+
+The book and related course material is also hosted on github (link on page above). However
+there is no page that I could find that actually hosted the web pages for the exercises. So
+I have created a github repository to host these pages. They can be accessed on my github
+user pages at
+
+http://mbeaty.github.com/jqFundamentals/exercises/
